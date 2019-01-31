@@ -1,6 +1,5 @@
 # noisy-terrain
-
-Your name and PennKey
+by Annie Su, anniesu1
 
 Procedural Terrain Techniques Used
 ----------------------------------
@@ -10,8 +9,10 @@ Procedural Terrain Techniques Used
 
 External Resources
 ------------------
-Referenced perlin noise function from here
-https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 
+Referenced perlin noise function from 
+[(here)](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
+
+
 
 Link to github.io Demo
 ----------------------
