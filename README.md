@@ -8,7 +8,7 @@ by Annie Su, anniesu1
 
 ## External Resources
 - Referenced perlin noise function from [here](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
-- Read about procedurally generated plateaus from [here] (https://www.seedofandromeda.com/blogs/58-procedural-heightmap-terrain-generation)
+- Read about procedurally generated plateaus from [here](https://www.seedofandromeda.com/blogs/58-procedural-heightmap-terrain-generation)
 
 ## Link to github.io Demo
 https://anniesu1.github.io/hw01-noisy-terrain/
